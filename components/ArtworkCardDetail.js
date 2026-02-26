@@ -71,3 +71,4 @@ export default function ArtworkCardDetail({ objectID }) {
     </Card>
   );
 }
+// Final version - committed as Final Commit
