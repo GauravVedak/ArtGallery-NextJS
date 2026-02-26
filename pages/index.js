@@ -1,16 +1,3 @@
-/*********************************************************************************
-*  WEB422 – Assignment 6
-*
-*  I declare that this assignment is my own work in accordance with Seneca's
-*  Academic Integrity Policy:
-* 
-*  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
-* 
-*  Name: Gaurav Amol Vedak Student ID: 140524232 Date: August 10, 2025
-*
-*  Vercel App (Deployed) Link: _____________________________________________________
-*
-********************************************************************************/
 import { Container, Row, Col, Image } from 'react-bootstrap';
 
 export default function Home() {
